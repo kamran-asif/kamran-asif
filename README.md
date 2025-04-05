@@ -40,14 +40,14 @@
 - 🌱 I’m currently learning **advanced web technologies and cloud services.**
 - 👯 I’m looking to collaborate on projects that make a real impact.
 - 💬 Ask me about **JavaScript, Node.js, React, and more.**
-- 📫 How to reach me: [kamran.asif@example.com](mailto:kamran.asif@example.com)
+- 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech trends and coding challenges.
 
 <!-- Social Media Links -->
 ## 🤝 Connect with Me
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https:https://x.com/MdKamran_456)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kamran-asif05/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)
 
