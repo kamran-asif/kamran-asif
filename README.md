@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <em>Software Developer | Open Source Enthusiast | Lifelong Learner</em>
+  <em> Open Source Enthusiast | Lifelong Learner</em>
 </p>
 
 <!-- GitHub Trophies (Dynamic Trophy Badges) -->
@@ -59,7 +59,7 @@
 </p>
 
 <!-- Additional Stats or Activity Section (Optional) -->
-## 📈 GitHub Activity
+## 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kamran-asif&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-asif&theme=react" alt="GitHub Activity Graph" />
 </p>
