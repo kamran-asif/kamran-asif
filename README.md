@@ -37,7 +37,7 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on some exciting open source projects.
-- 🌱 I’m currently learning **advanced web technologies and cloud services.**
+- 🌱 I’m currently learning **web technologies.**
 - 👯 I’m looking to collaborate on projects that make a real impact.
 - 💬 Ask me about **JavaScript, Node.js, React, and more.**
 - 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
