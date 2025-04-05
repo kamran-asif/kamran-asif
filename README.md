@@ -36,10 +36,10 @@
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on some exciting open source projects.
+- 🔭 I’m currently working on some exciting projects.
 - 🌱 I’m currently learning **web technologies.**
 - 👯 I’m looking to collaborate on projects that make a real impact.
-- 💬 Ask me about **JavaScript, Node.js, React, and more.**
+- 💬 Ask me about **Competitive Programming**, **DSA**, and **Web Tools.**
 - 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech trends and coding challenges.
