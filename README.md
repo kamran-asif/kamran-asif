@@ -7,7 +7,7 @@
 <h1 align="center">
   Hi there, I'm <a href="https://github.com/kamran-asif">Kamran Asif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
-<td width="25%">
+<td width="15%">
             <img src="https://github.com/user-attachments/assets/6b76b5fe-69bd-46f0-bba0-b04cbe0335b9" width="80%">
         </td>
 
