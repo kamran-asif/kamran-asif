@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <em> Open Source Enthusiast | Lifelong Learner</em>
+
 </p>
 
 <!-- GitHub Trophies (Dynamic Trophy Badges) -->
