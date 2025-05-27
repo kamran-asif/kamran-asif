@@ -51,11 +51,11 @@
 
 -💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
 
-- 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
+-📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
 
-- 😄 Pronouns: He/Him
+-😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love exploring new tech trends and coding challenges.
+-⚡ Fun fact: I love exploring new tech trends and coding challenges.
 
 <!-- Social Media Links -->
 ## 🤝 Connect with Me
