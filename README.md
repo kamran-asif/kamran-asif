@@ -43,7 +43,7 @@
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
-- 🔭  I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
+-🔭 I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
 
 -🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
 
