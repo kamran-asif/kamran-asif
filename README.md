@@ -43,12 +43,18 @@
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on some exciting projects.
-- 🌱 I’m currently learning **web technologies.**
-- 👯 I’m looking to collaborate on projects that make a real impact.
-- 💬 Ask me about **Competitive Programming**, **DSA**, and **Web Tools.**
+- 🔭  I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
+
+-🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
+
+-👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
+
+-💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
+
 - 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I love exploring new tech trends and coding challenges.
 
 <!-- Social Media Links -->
