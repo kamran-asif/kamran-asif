@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-    <em> Learner</em>
+    <em>Open Source Enthusiast | Exploring New Technologies</em>
 </p>
 
 <!-- GitHub Trophies (Dynamic Trophy Badges) -->
