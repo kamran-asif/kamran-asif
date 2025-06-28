@@ -39,7 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
-
+  <img src="https://avatars.githubusercontent.com/u/80195142?s=200&v=4" height="20"/> **Clerk**
+  <img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" height="20"/> **Appwrite**
 </p>
 
 
