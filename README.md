@@ -48,6 +48,7 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 -🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
+
 -🌱 I’m actively learning .NET to build robust solutions that integrate modern applications with legacy systems.
 
 -👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
