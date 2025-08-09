@@ -12,6 +12,11 @@
     <em>Open Source Enthusiast | Exploring New Technologies</em>
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20views&color=0e75b6&style=flat" alt="kamran-asif" />
+</p>
+
 <!-- GitHub Trophies (Dynamic Trophy Badges) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
