@@ -56,7 +56,7 @@
 
 -👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
 
--💬 Ask me about mainframe technologies,and open-source contributions.
+-💬 Ask me about open-source contributions.
 
 -📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
 
