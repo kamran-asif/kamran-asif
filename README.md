@@ -52,10 +52,6 @@
 ## 👨‍💻 About Me
 -🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
 
--🌱I’m actively revising DSA to prepare for cracking company interviews
- 
--📊 Most of my GitHub contribution graph comes from my LeetCode activity, and some are missing ⏳
-
 -👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
 
 -💬 Ask me about open-source contributions.
