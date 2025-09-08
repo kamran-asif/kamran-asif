@@ -8,7 +8,7 @@
   Hi there, I'm <a href="https://github.com/kamran-asif">Kamran Asif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
 
-
+<p align="center">
     <em>Open Source Enthusiast | Exploring New Technologies</em>
 </p>
 
@@ -41,29 +41,31 @@
   <img src="https://clerk.dev/images/logo-white.svg" height="40" alt="Clerk logo" />
 </p>
 
-
 <!-- About Me Section -->
 ## 👨‍💻 About Me
--🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
-
--💬 Ask me about open-source contributions.
-
--📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
-
--😄 Pronouns: He/Him
-
--⚡ Fun fact: I love exploring new tech trends and coding challenges.
+<p>
+- 🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.<br>
+- 💬 Ask me about open-source contributions.<br>
+- 📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)<br>
+- 😄 Pronouns: He/Him<br>
+- ⚡ Fun fact: I love exploring new tech trends and coding challenges.
+</p>
 
 <!-- Social Media Links -->
 ## 🤝 Connect with Me
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kamran-asif05/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MdKamran_456)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamran-asif05/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://x.com/MdKamran_456">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
 <!-- Additional Stats or Activity Section (Optional) -->
 ## 📊 GitHub Activity Graph
