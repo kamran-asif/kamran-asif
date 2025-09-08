@@ -46,7 +46,7 @@
 ## 👨‍💻 About Me
 -🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
 
--👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
+-👯 I’m now focusing more on problem solving.
 
 -💬 Ask me about open-source contributions.
 
