@@ -8,6 +8,10 @@
   Hi there, I'm <a href="https://github.com/kamran-asif">Kamran Asif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
 
+<!-- GitHub Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20views&color=0e75b6&style=flat" alt="kamran-asif" />
+</p>
 <p align="center">
     <em>Open Source Enthusiast | Exploring New Technologies</em>
 </p>
