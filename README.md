@@ -46,8 +46,6 @@
 ## 👨‍💻 About Me
 -🔭  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
 
--👯 I’m now focusing more on problem solving.
-
 -💬 Ask me about open-source contributions.
 
 -📫 How to reach me: [mdkamranasif789@example.com](mailto:mdkamranasif789@example.com)
