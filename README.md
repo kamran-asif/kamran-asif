@@ -24,6 +24,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kamran-asif&show_icons=true&theme=radical" alt="Kamran's GitHub Stats" />
 </p>
 
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran-asif&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 <!-- Badges/Technologies Section -->
 ## 🛠 Languages & Tools
 <p align="center">
