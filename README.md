@@ -7,15 +7,14 @@
 <h1 align="center">
   Hi there, I'm <a href="https://github.com/kamran-asif">Kamran Asif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
-
-<p align="center">
-    <em>Open Source Enthusiast | Exploring New Technologies</em>
-</p>
 <!-- Profile View Counter -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamran-asif&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+<p align="center">
+    <em>Open Source Enthusiast | Exploring New Technologies</em>
+</p>
+
 
 <!-- GitHub Trophies (Dynamic Trophy Badges) -->
 <p align="center">
