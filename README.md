@@ -39,10 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" style="filter: invert(100%);" alt="Express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appwrite.svg" height="40" alt="Appwrite logo" />
-  <img src="https://avatars.githubusercontent.com/u/60838202?s=200&v=4" height="40" alt="Clerk logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appwrite.svg" height="40" style="filter: invert(100%);" alt="Appwrite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/clerk.svg" height="40" style="filter: invert(100%);" alt="Clerk logo" />
 </p>
 
 <!-- About Me Section -->
