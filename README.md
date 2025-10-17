@@ -11,14 +11,9 @@
 
 
 <p align="center">
-    <em>Open Source Enthusiast | Exploring New Technologies</em>
+    <em>open Source Enthusiast | Exploring New Technologies</em>
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kamran-asif&theme=onedark&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 <!-- GitHub Stats -->
 <p align="center">
