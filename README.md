@@ -8,9 +8,7 @@
 </h1>
 
 <!-- Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamran-asif&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
 
 <p align="center">
     <em>Open Source Enthusiast | Exploring New Technologies</em>
@@ -18,7 +16,6 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kamran-asif&theme=onedark&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
