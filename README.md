@@ -47,11 +47,13 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 <p>
-- 🔭 I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.<br>
-- 💬 Ask me about open-source contributions.<br>
-- 📫 How to reach me: <a href="mailto:mdkamranasif789@example.com">mdkamranasif789@example.com</a><br>
-- 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I love exploring new tech trends and coding challenges.
+🔭 I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
+
+🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
+
+👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
+
+💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
 </p>
 
 <!-- Social Media Links -->
