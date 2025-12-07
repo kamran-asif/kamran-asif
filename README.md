@@ -47,13 +47,6 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 <p>
-🔭 I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
-
-🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
-
-👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
-
-💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
 </p>
 
 <!-- Social Media Links -->
