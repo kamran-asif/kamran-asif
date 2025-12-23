@@ -46,11 +46,7 @@
 
 <!-- About Me -->
 ## 👨‍💻 About Me
-<p>
-  🎓 Electronics and Communication Engineering undergraduate at 
-  <strong>National Institute of Technology Agartala</strong><br/>
-  💡 Interested in Backend Development, Cloud, Distributed Systems & Open Source<br/>
-  🚀 Actively contributing to open-source projects and learning system-level engineering
+<p I'm currently studying Electronics And Communication Engineering in NIT Agartala 
 </p>
 
 <!-- Connect With Me -->
