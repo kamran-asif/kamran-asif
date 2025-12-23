@@ -2,17 +2,19 @@
   GitHub Profile README
 -->
 
-
-
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/RayyanSeliya">Kamran Asif </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
+  Hi there, I'm <a href="https://github.com/kamran-asif">Kamran Asif</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+<!-- Profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
 
 <p align="center">
   <em> Open Source Enthusiast | Exploring New Technologies </em>
 </p>
+
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -45,18 +47,18 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 <p>
-  I'm currently studying electronics and communication engineering at 
+  I'm currently studying Electronics and Communication Engineering at
   NIT Agartala.
 </p>
 
 <!-- Connect With Me -->
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
