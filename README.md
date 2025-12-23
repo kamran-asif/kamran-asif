@@ -8,7 +8,7 @@
 
 <!-- Profile views badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">
