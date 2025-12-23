@@ -54,10 +54,10 @@
 <!-- Connect With Me -->
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kamran-asif05">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://x.com/MdKamran_456">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </p>
