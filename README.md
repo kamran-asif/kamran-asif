@@ -7,9 +7,9 @@
 </h1>
 
 <!-- Profile views badge (old style) -->
-<p align="center">
+/*<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p>*/;
 
 
 <p align="center">
