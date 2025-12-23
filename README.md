@@ -8,7 +8,7 @@
   Hi there, I'm <a href="https://github.com/RayyanSeliya">Kamran Asif </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hello gif"/>
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=RayyanSeliya&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
 
 <p align="center">
   <em> Open Source Enthusiast | Exploring New Technologies </em>
