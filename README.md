@@ -3,9 +3,6 @@
 -->
 
 
-<p align="center">
-  <em>Open Source Enthusiast | Exploring New Technologies</em>
-</p>
 
 
 
