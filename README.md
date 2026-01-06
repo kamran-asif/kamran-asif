@@ -45,7 +45,7 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 <p>
-  I'm currently studying Electronics and Communication Engineering 
+  I'm currently studying Electronics and Communication Engineering at National Institute of Technology Agartala 
 
 </p>
 
