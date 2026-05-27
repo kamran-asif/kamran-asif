@@ -78,7 +78,7 @@
 ## 👨‍💻 About Me
 
 <p>
-  I'm currently pursuing Electronics and Communication Engineering at IIIT Agartala.
+  I'm currently pursuing Electronics and Communication Engineering at NIT Agartala.
   Passionate about Full-Stack Development, Backend Engineering, Open Source, and System Design.
 </p>
 
