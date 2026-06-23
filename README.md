@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kamran-asif profile views" />
+<img src="https://komarev.com/ghpvc/?username=kamran-asif&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kamran-asif profile views" />
 </p>
 
 <p align="center">
