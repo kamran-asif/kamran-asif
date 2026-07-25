@@ -77,10 +77,14 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-<p>
-  I'm currently pursuing Electronics and Communication Engineering at NIT Agartala.
-  Passionate about Full-Stack Development, Backend Engineering, Open Source, and System Design.
-</p>
+- 🔭 I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
+
+- 🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
+- 👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
+- 💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
+- 📫 How to reach me: [mdkamranasif789@gmail.com](mailto:mdkamranasif789@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new tech trends and tackling coding challenges that push the boundaries of what's possible!
 
 <!-- Connect With Me -->
 ## 🤝 Connect with Me
