@@ -13,24 +13,20 @@
   <em>Open Source Enthusiast | Full-Stack Developer | Exploring New Technologies</em>
 </p>
 
-<!-- GitHub Trophies -->
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=kamran-asif&theme=onedark&column=7"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamran-asif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-asif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kamran-asif&show_icons=true&theme=radical"
-    alt="Kamran's GitHub Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=kamran-asif&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-asif&theme=tokyo-night&hide_border=true" />
+</p>
 <!-- Languages & Tools -->
 ## 🛠 Languages & Tools
 
