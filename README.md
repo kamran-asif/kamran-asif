@@ -19,7 +19,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamran-asif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-asif&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+## 📊 GitHub Metrics
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamran-asif&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamran-asif&theme=tokyonight" />
