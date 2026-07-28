@@ -1,4 +1,4 @@
-<!--
+i<!--
   GitHub Profile README
 -->
 <h1 align="center">
@@ -87,14 +87,12 @@
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently exploring exciting projects supported by LFX and deepening my understanding of enterprise-grade systems.
+- 🔭 I’m currently studying Electronics And Communication Engineering at NIT Agartala, System Design,Full Stack Development,Open source 
 
-- 🌱 I’m actively learning Go to build robust solutions that integrate modern applications with legacy systems.
-- 👯 I’m looking to collaborate on projects that bring a real impact through innovative technology.
+
 - 💬 Ask me about mainframe technologies, Go programming, and open-source contributions.
 - 📫 How to reach me: [mdkamranasif789@gmail.com](mailto:mdkamranasif789@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new tech trends and tackling coding challenges that push the boundaries of what's possible!
+
 
 <!-- Connect With Me -->
 ## 🤝 Connect with Me
