@@ -18,29 +18,12 @@ i<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamran-asif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-asif&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamran-asif&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamran-asif&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamran-asif&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamran-asif&theme=tokyo-night&hide_border=true" />
-</p>
-<!-- Languages & Tools -->
 ## 🛠 Languages & Tools
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
